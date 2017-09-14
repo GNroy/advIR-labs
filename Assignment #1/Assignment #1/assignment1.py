@@ -6,7 +6,7 @@ from q2_entropy import entropy
 from q3_conditional_entropy import conditional_entropy
 from q4_joint_entropy import joint_entropy
 from q5_mutual_information import mutual_information
-#from q6_min_max_entropy import compute_min_max_entropy
+from q6_min_max_entropy import compute_min_max_entropy
 
 '''
 This script is used to load all the PDF documents, calculate the frequencies of
@@ -49,8 +49,8 @@ print ("Vocabulary size: " + repr(len(voc)))
 two_gram, two_gram_count = create_n_gram_wcount(files_content, 2)
 print ("Number of 2-grams: " + repr(len(two_gram.keys())))
 
-#min_e,max_e = compute_min_max_entropy(voc)
-#print ("Minimum entropy: " + repr(min_e) + "\nMaximum entropy: " + repr(max_e))
+min_e,max_e = compute_min_max_entropy(voc)
+print ("Minimum entropy: " + repr(min_e) + "\nMaximum entropy: " + repr(max_e))
 
 ent = entropy(one_gram)
 print ("Entropy wtr given vocabulary: " + repr(ent))

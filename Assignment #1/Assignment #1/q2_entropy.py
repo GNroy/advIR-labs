@@ -19,5 +19,5 @@ def test_entropy(ds):
 
 if __name__ == "__main__":
     ds = ['Mother washed the 2nd frame', 'The frog jumped unsuccessfully', 'I won 2nd prize']
-	
+    
     print(test_entropy(ds))

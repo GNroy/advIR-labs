@@ -6,11 +6,11 @@ that are dictionaries with words/word pairs as keys and the probabilities
 of these words/word pairs as values
 '''
 
-def conditional_entropy(two_gram, one_gram, biass_coeff=1):
+def conditional_entropy(two_gram, one_gram, bias_coeff=1):
     ent = 0.
 	
     for key in two_gram.keys():
-        ent -= two_gram[key] * m.log(two_gram[key] / (one_gram[' '.join(key.split()[:-1])] * biass_coeff), 2)
+        ent -= two_gram[key] * m.log(two_gram[key] / (one_gram[' '.join(key.split()[:-1])] * bias_coeff), 2)
     return ent
 
 def test_conditional_entropy(ds):
@@ -19,5 +19,5 @@ def test_conditional_entropy(ds):
 
 if __name__ == "__main__":
     ds = ['Mother washed the 2nd frame', 'The frog jumped unsuccessfully', 'I won 2nd prize']
-	
+    
     print(test_conditional_entropy(ds))
