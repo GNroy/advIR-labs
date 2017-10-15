@@ -1,0 +1,1502 @@
+
+"Stony Brook University
+MS, Electrical Engineering, 1983 - 1988
+Indian Institute of Technology, Kharagpur
+B Tech, Electrical Engineering, 1978 - 1983
+Activities and Societies: 
+Bridge, Water Polo English and Hindi Plays.
+ 
+3
+Nat Gurumoorthy
+Member Technical Staff at Google Mountain View
+Contact Nat on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.46178082696971, education=5.9622750620936245, summary=8.791011887590908)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"MIT
+Master's degree, Machine Learning, 2008 - 2010
+University of Maryland College Park
+Bachelor's degree, Mathematics and Computer Science, 2001 - 2005
+ 
+3
+Neha Crosby
+Senior Staff Software Engineer at Google
+Contact Neha on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.149083248778963, education=4.273723689600793, summary=7.205843259453221)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of California, Irvine
+BS, Computer Science, 1994 - 1997
+ 
+4
+Nikhil Kothari
+Engineering Manager at Google
+Contact Nikhil on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.359173780360353, education=5.03938488833027, summary=8.081326646312283)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of Wisconsin-Madison
+Computer Science, 2000 - 2001
+Indiana University Bloomington
+MS, Computer Science, 1998 - 2000
+Zhejiang University
+BS, Computer Science, 1994 - 1998
+ 
+2
+Ning Li
+Engineering Director at Facebook
+Contact Ning on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.310855455221833, education=4.523995898775192, summary=7.5113458942425195)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of California, Berkeley
+BS, EECS, 1991 - 1995
+ 
+3
+Patrick Tjin
+Software Engineer at Google
+Contact Patrick on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=8.16352711782118, education=6.328067347508741, summary=7.851828557483442)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Weber State University
+Masters, Accounting, 1998 - 1999
+Activities and Societies: 
+Beta Alpha Psi
+Weber State University
+Bachelor, Accounting, 1994 - 1998
+Activities and Societies: 
+Beta Alpha Psi, Sigma Alpha Epsilon
+United States Naval Academy
+Mathematics, 1989 - 1991
+ 
+2
+Paul O. Skeen
+Audit Partner
+Contact Paul O. on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=8.958093298766565, education=6.332124185093862, summary=10.195795773425594)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Carnegie Mellon University
+MSISTM, Computer Systems and Security, 2011 - 2013
+College of Engineering Pune
+Bachelor of Technology, Information Technology, 2006 - 2010
+ 
+2
+Activities and Societies: 
+Ladies Representative: Boat Club Management Committee Regatta Management
+ Committee
+Jnana Prabodhini Prashala
+5th to 10th grade, 1998 - 2004
+ 
+3
+Prachi Hande
+Software Engineer at Google
+Contact Prachi on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.420126602429119, education=5.898019513053371, summary=8.43114914840365)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of California, Berkeley, Haas School of Business
+MBA, MBA, 2003 - 2006
+University of Wisconsin-Madison
+MS, Computer Sciences, August 1995 - December 1996
+Chinese Academy of Sciences
+M.S., Computer, 1992 - 1995
+Southeast University
+BS, Biomedical Engineering, 1988 - 1992
+Jinling High School
+ 
+3
+1985 - 1988
+ 
+4
+Qi Jin
+Engineering Director at Google
+Contact Qi on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.837528986805172, education=4.686190868461254, summary=7.466626896720999)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Queen's University
+ 
+5
+Bachelor of Science (BSc) with Honours, Mechanical Engineering, 1981 - 1985
+Honors and Awards
+NASA Group Achievement Award, Nomination for 1991 Technical Excellence Award for individual
+ Achievement, Time Magazine Person of the Year 2006
+ 
+6
+Randall Graham, P.Eng. (ON)
+Principal Software/Firmware Engineer at SurfBytes LLC
+Contact Randall on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.4951109490505115, education=5.849598916121675, summary=8.640385612967812)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Shanghai Jiao Tong University
+Master's degree, Computer Science, 2004 - 2007
+Shanghai Jiao Tong University
+Bachelor's degree, Computer Science, 2000 - 2004
+ 
+2
+Renjie Jiang
+Staff Software Engineer at Google
+Contact Renjie on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.260980487112699, education=5.237185788317699, summary=7.586795294937819)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Peking University
+Master, Computer Science, 2004 - 2007
+Peking University
+Bachelor, Computer Science & Statistics, 2000 - 2004
+ 
+2
+Ruichao Li
+Senior Staff Software Engineer @ Google
+Contact Ruichao on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.459546852663462, education=3.4198902137611653, summary=7.113431489753022)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Princeton University
+PhD, Computer Science, 2000 - 2006
+University of Southern California
+Master's degree, Computer Science, 1998 - 2000
+Shanghai Jiao Tong University
+BS, Computer Science, 1995 - 1998
+Xiang Ming middle school
+Xiang Ming middle school
+ 
+2
+Ruoming Pang
+Principal Software Engineer at Google
+Contact Ruoming on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.818143479337765, education=4.5473271759805, summary=7.822506772548548)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of Wisconsin-Madison
+ 
+2
+MS, Computer Science, 1999 - 2001
+College of Engineering Guindy, Chennai
+B.E., Computer Science, 1995 - 1999
+Vanavani
+High School, Science, 1983 - 1995
+ 
+3
+Sambavi Muthukrishnan
+Engineering Manager at Facebook
+Contact Sambavi on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.881345003125297, education=5.03549796730888, summary=7.078763001345954)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"The Johns Hopkins University
+MS, Computer Science, 2008 - 2010
+University of Pune
+Bachelor of Engineering, Computer Engineering, 2002 - 2006
+St. Vincents
+2000 - 2002
+ 
+3
+Shine Jose
+Software Engineer at IGT
+Contact Shine on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.535449840450465, education=5.228402433333398, summary=7.985222150310135)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of Wisconsin-Madison
+Ph.d, Computer Science, 1990 - 1996
+Indian Institute of Technology, Madras
+BTech, Computer Science, 1986 - 1990
+Hyderabad Public School Begumpet
+High School, 1982 - 1986
+ 
+2
+ 
+3
+Shivakumar Venkataraman
+VP of Engineering Google - Search Ads
+Contact Shivakumar on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.2513368566563, education=5.9301433150534395, summary=7.546910581157992)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Coimbatore Institute of Technology
+Bachelor of Engineering (BE), Electrical, Electronics and Communications Engineering, 2001 - 2005
+Activities and Societies: 
+Vollyeball, Dramatics-DanceTeam
+Honors and Awards
+Bravo Award
+ 
+3
+Shyam Krishnan Moni
+SDE II Amazon Video
+Contact Shyam Krishnan on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=8.441271667890819, education=6.602080061437164, summary=9.482999846031433)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Rice University
+PhD, Operating systems, 1998 - 2003
+Indian Institute of Technology, Bombay
+B. Tech, Computer Science and Engineering, 1994 - 1998
+ 
+2
+Sitaram Iyer
+Software Engineer at Google
+Contact Sitaram on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.260516967914536, education=4.25799062717611, summary=6.600681123274212)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"School of Visual Arts
+Master™s Degree, Illustration, 2014 - 2016
+Activities and Societies: 
+SVA Alumni Scholarship Award Winner
+School of the Museum of Fine Arts
+Post-Baccalaureate, 2010 - 2011
+Bowdoin College
+BA, Religion, Asian Studies, 2003 - 2007
+Activities and Societies: 
+BOKA (co-ed a cappella group), musicals/dramatic theater, Big Brothers/Big Sisters
+Stanford University
+Japanese, 2005 - 2005
+Activities and Societies: 
+Completed an intensive program in Japanese language.
+Columbia University in the City of New York
+Creative Writing, 2002 - 2002
+Activities and Societies: 
+Summer program in Creative Writing.
+KCJS
+ 
+3
+Susan Coyne
+Illustrator at Open Source/WBUR Boston
+Contact Susan on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=8.05076048988412, education=6.249496811887682, summary=8.232417529378086)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Brigham Young University
+Masters, Accounting, 2004 - 2005
+Weber State University
+BS, Accounting, 2000 - 2003
+University of Utah
+School Transfer, Business Administration and Management, General, 1998 - 2000
+ 
+2
+Tyler Neves, CPA
+Audit Partner at Sadler, Gibb & Associates, LLC
+Contact Tyler on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.331489407851495, education=4.766468148594449, summary=7.922911293484265)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Stanford University
+BS and BA, Computer Science/Economics
+University of Minnesota-Twin Cities
+Irondale Senior High School
+ 
+3
+Vik Gupta
+Senior Engineering Director at Google
+Contact Vik on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.4764732762082025, education=4.302246222110849, summary=7.698255201478687)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"New York University
+Master of Science (MS), Computer Science, 2012 - 2014
+Shandong University
+Bachelor of Engineering (B.Eng.), Software Engineering, 2008 - 2012
+Shandong University
+Bachelor of Ecomonics, Finance, General, 2008 - 2012
+ 
+2
+Vivienne Bu
+Software Engineer at Google
+Contact Vivienne on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.439813089636624, education=4.7665469516039725, summary=6.689913680839363)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of Southern California
+Master of Science (M.S.), Electrical Engineering, 2010 - 2012
+Xiamen University
+Bachelor of Engineering (B.E.), Electronica Information Science and Technology, 2006 - 2010
+ 
+3
+Wenying Li
+Software Engineer at Facebook
+Contact Wenying on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.743615624774504, education=3.139975600035177, summary=6.343909601698385)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of California, Berkeley
+MS and PhD, EECS, 2000 - 2007
+Tsinghua University
+BS
+Activities and Societies: 
+Vice President, Graduate Student Union, Tsinghua Univ., 1998 ~ 2000 Executive
+ editor, Graduate Student Newspaper, Tsinghua Univ., 1997 ~ 1998 Vice President, Student Association of
+ Science-Technology, Tsinghua Univ., 1996 ~ 1997
+ 
+2
+Yang Zhao
+Senior Staff Software Engineer & Engineering Manager at Google
+Contact Yang on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.954174133136278, education=4.261713957125758, summary=9.070537751359765)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"University of California, Riverside
+Ph.D, Computer Science, 2004 - 2008
+University of California, Riverside
+M.S, Statistics, 2005 - 2008
+ 
+2
+Nanjing University
+B.S, Computer Science, 1997 - 2001
+ 
+3
+Yonghui Wu
+Principal Software Engineer at Google Brain
+Contact Yonghui on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.204229475453218, education=4.198031427879723, summary=7.112437460910119)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Columbia University - Fu Foundation School of Engineering and Applied Science
+Master Student, Computer Science, 2014 - 2015
+Zhejiang University
+M.S., Computer Science, 2011 - 2014
+Southeast University
+B.Eng., Computer Science, 2006 - 2010
+Honors and Awards
+National Scholarship, Second Prize of Programming Contest, Southeast University, Graduate of Merit / Triple
+ A Graduate, First Class Award for Graduate Students, Scholarship of Huawei Technologies Co., Ltd.
+ 
+2
+Yun Sun
+Software Engineer at Google
+Contact Yun on LinkedIn"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.879495701899306, education=4.4851970215473145, summary=7.516630308942245)
+Expected section: education
+Predicted section: education
+CORRECT
+
+"Member Technical Staff at Google
+January 2011  -  Present
+I work in the Platforms Hardware Development group.
+Principal Software Engineer at Ubicom
+March 2000  -  January 2011 
+(10 years 11 months)
+I am one of a select group of people who can claim to have ported Linux to an entirely new architecture. I
+ am member of a 3 person Kernel group that ported Linux to the the Ubicom32 multi threaded architecture.
+ I wrote the low level context switching code. I wrote the Signal handling code. I wrote code that handles
+ loadable module relocation fixups. Wrote the elf to flat converter and the flat file relocation fixup code to run
+ binaries.
+Added support for Ubicom32 multithreaded architecture into QEMU.
+Currently I am working on porting Android platform to Ubicom architecture. Wrote the machine specific
+ code for Android Bionic library.
+Working on porting Ubicom32 architecture to Android QEMU emulator.
+Added FDPIC support to Ubicom32 GNU linker and assembler.
+Member Technical staff at Silicaon Graphics
+February 1995  -  March 2000 
+(5 years 2 months)
+Worked in the digital Media group in the Intermediate Systems Divitions. Wrote device drivers for a JPEG
+ compression card.
+Member Technical Staff
+September 1991  -  February 1995 
+(3 years 6 months)
+Wrote devive driver to interface Kubota graphics system to DEC Alpha platrom. Also wrote device drivers to
+ interface Kubota Graphics system to a SMP Adrent machine.
+Software Engineer
+1988  -  1991 
+(4 years)
+Software Engineer
+1988  -  1991 
+(4 years)
+ 
+2"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.2978048819753205, education=9.651529559958554, summary=7.562895441504214)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Eng Lead in Video Advertising
+2015  -  Present
+Working on improving the infrastructure and quality of video advertising on YouTube!
+Software Engineer on Android at Google
+2013  -  2015 
+(3 years)
+Making the Google Search App on Android a better experience, and eventually making our whole phone
+ much smarter by leveraging Google intelligence. 
+AdMob Quality at Google
+January 2011  -  2013 
+(3 years)
+Focused on improving the relevance of ads in mobile apps by building the next generation user models, ads
+ auction, pricing and budgeting system. Major launches included:
+ 
+- Launch of second price auction on AdMob: http://googlemobileads.blogspot.com/2012/02/admob-auction-
+enhancements.html
+- Smoothening budget constrained advertiser spend through the day leading to better auction competition and
+ gains in advertiser welfare. 
+- Selecting higher quality ads for budget constrained advertisers giving major improvements in advertiser
+ ROI and user experience. 
+- Improved click prediction models trained via large scale machine learning infrastructure leading to
+ significant revenue gains.
+Search Quality
+August 2005  -  August 2008 
+(3 years 1 month)
+- Significantly improved search quality of Google Video and YouTube by analyzing user click data,
+ experimenting with new ranking functions, preventing click spam, and balancing fresh video content against
+ established high quality videos.
+ 
+2
+- Launched search feature improvements on YouTube by adding query suggestions, query reduction to make
+ long queries more effective and geo search giving users ability to find videos by location.
+- Worked on next generation system for monitoring Google services running on large clusters of machines by
+ creating engineering consoles and automating the storage of long-term monitoring data."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.719101577385886, education=9.90072946148976, summary=6.955000489472039)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Senior Staff Software Engineer at Google
+November 2013  -  Present
+Engineer and Engineering manager - started, developed and launched products and services for Machine
+ Learning/AI, and Big Data tools. Cloud Machine Learning Engine (https://cloud.google.com/ml-engine) and
+ Cloud Datalab (https://cloud.google.com/datalab)
+ 
+2
+Partner Software Architect, Windows Azure at Microsoft Corporation
+May 2012  -  October 2013 
+(1 year 6 months)
+- Working on Windows Azure application platform and tools
+- Building cloud services such as Windows Azure Mobile Services providing MBaaS/BaaS (mobile backend
+ as a service) capabilities to power modern applications across devices.
+- Incubating next-generation PaaS services in various spaces such as search, and machine learning/big data
+ scenarios.
+Partner Software Architect, Bing/Online Services at Microsoft Corporation
+September 2010  -  May 2012 
+(1 year 9 months)
+- Built local, social, mobile experiences bringing Bing search experiences to consumers across multiple
+ mobile phones/devices and platforms including iOS, Android, Windows Phone and mobile web through a
+ combination of native and HTML5-based solutions.
+- Contributed to architecture, and vision for next-generation Bing Information Platform, and APIs.
+Principal Software Architect, .NET Platform at Microsoft Corporation
+April 2005  -  September 2010 
+(5 years 6 months)
+- Led the inception, design and development of ASP.NET Ajax
+- Created Script#, a development tool for compiling C# into JavaScript, and powering large/application scale
+ development of script-based web applications.
+- Contributed a key role in the revamp of IIS7, Microsoft's Web Server product
+- Incubated and developed the early foundations of Silverlight and managed code programming model for
+ rich internet applications
+- Developed early vision, prototype and development of RIA Services, a Line of Business Application
+ development framework for Microsoft's .NET/Silverlight platforms and tools.
+Software Development Engineer Lead, ASP.NET, .NET Platform at Microsoft Corporation
+July 2000  -  April 2005 
+(4 years 10 months)
+- Led the design, and development of the .NET Framework, ASP.NET, Web Forms and the Server Control
+ framework from their inception through multiple releases.
+- Created foundational technology to provide the foundation for successful products such as Sharepoint.
+- Incubated and released Web Matrix, a development experience for Web sites and applications, leading to
+ technical and business innovation within Microsoft tools.
+Software Development Engineer, Visual Studio at Microsoft Corporation
+July 1997  -  July 2000 
+(3 years 1 month)
+- Designed and developed features for Visual Studio, Visual Basic and Visual InterDev, including the web
+ editing experiences for HTML/CSS/Script editing.
+ 
+3"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=3.125431109259392, education=8.747484685146826, summary=6.110157258837651)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Engineering Director at Facebook
+2014  -  Present
+Lead Ads Delivery engineering group including Ads Infrastructure, Ads Ranking and Optimization, Ads
+ Targeting, Market Dynamics and Delivery Insights for ads on Facebook, Instagram and Audience Network
+Software Engineer at Facebook
+2009  -  Present
+Software Engineer
+2001  -  2009 
+(9 years)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.104515905023591, education=8.91302751233795, summary=4.990933873249314)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at Google
+May 2011  -  Present
+Staff Software Engineer at Ubicom
+August 2004  -  May 2011 
+(6 years 10 months)
+Linux device drivers
+ipOS
+U-Boot
+uClinux
+uClibc
+UPnP/DLNA
+Cadence OrCAD
+Mentor PADS
+iPod/iPhone MFi
+Staff Software Engineer
+August 1999  -  March 2004 
+(4 years 8 months)
+VOIP
+VDSL
+vxWorks BSP, device drivers
+Linux BSP, device drivers
+Software Engineer at 3Com
+July 1995  -  October 1999 
+(4 years 4 months)
+ 
+2
+Windows Drivers (NDIS, SCSI, WDM)
+Novell Netware Drivers
+FDDI, ATM, Fibre Channel, HPNA
+Software Contractor
+December 1994  -  December 1997 
+(3 years 1 month)
+Engineering Design Contractor at Interval Research
+June 1994  -  December 1994 
+(7 months)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.556732553982999, education=9.340600370586122, summary=8.744977138205742)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Audit Partner at Eide Bailly LLP
+September 2013  -  Present
+Audit Partner at Hansen, Barnett & Maxwell
+February 1999  -  August 2013 
+(14 years 7 months)
+Intern
+December 1996  -  December 1998 
+(2 years 1 month)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.507494408754715, education=11.13818270187283, summary=11.118003650952167)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at Google
+June 2013  -  Present
+Graduate Student at Carnegie Mellon University
+August 2011  -  May 2013 
+(1 year 10 months)
+SDE Intern at Amazon
+May 2012  -  August 2012 
+(4 months)
+Marketplace Web Services (MWS)
+Software Engineer in Test at Symantec
+July 2010  -  June 2011 
+(1 year)
+Storage and Availability Management Group (SAMG)
+-worked on Storage Foundation and High Availability for Windows (SFWHA) and Veritas Cluster Server
+ (VCS)
+SDE Intern at Delcam
+December 2009  -  April 2010 
+(5 months)
+Rapid prototyping of shoes using 3D graphical software system
+- Variants for Rapid Shoe Design
+- Sublimation Printing and Paint On Last
+SDE Intern at IBM
+July 2009  -  September 2009 
+(3 months)
+Cloud Computing
+-Proxy Antivirus to route online traffic over Squid proxy through browser"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.968338995325772, education=8.862306801457777, summary=8.457446119143853)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Engineering Director, Search (Knowledge Graph Infrastructure) at Google
+July 2015  -  Present
+Build and serve the Knowledge Graph in Google Search and other applications such as YouTube and Maps.
+Powering search card "how tall is barack obama", Listing "california amusement parks near san francisco",
+ Q&A "who won last NBA", Google Now cards, and voice search
+Engineering Director, Resource Management (Cloud & Tech Infrastructure) at Google
+June 2011  -  June 2015 
+(4 years 1 month)
+Compute resource system for Google data centers (internal and external Cloud).  Managing x billion $
+ compute resources for search, gmail, mobile, youtube and external cloud.  On demand resource control and
+ provisioning based on real time usage. Integration with all the major google technology including Borg,
+ Colossus, Bigtable, Blobstore, Spanner, Google Compute Engine etc. Petabyte Big data analysis for resource
+ efficiency and over-subscription. 
+General Manager, China at Zuora, Inc.
+June 2010  -  July 2011 
+(1 year 2 months)
+Zuora is the SaaS leader in subscription based billing & payment cloud platform. 
+Zuora's China engineering team develops product & pricing catalog, subscription, billing and payment,
+ salesforce connection, and analytics
+DB2 Program Director, Senior Technical Staff Member at IBM
+January 2007  -  June 2010 
+(3 years 6 months)
+Ł World wide manager for half of the DB2 development team, including the data warehouse engine,
+ pureXML and text search. Lead more than one hundred developers in North America and several hundred in
+ four countries.  Develop DB2 v10 with Business Intelligence query processing, online data ingestion, data
+ compression, MPP/SMP parallelism, high availability and disaster recovery, workload management, table
+ versioning, and hadoop connection.  
+http://www.ibm.com/developerworks/data/library/techarticle/dm-1204whatsnewdb210/
+http://www-01.ibm.com/software/data/infosphere/warehouse/
+ 
+2
+Ł Led the pureXML development, a major differentiator for DB2. It manages XML natively and provides
+ the integrated XQUERY, Search, and SQL access. Lead DB2 9.7 including XML support in shared-nothing
+ cluster, DB2 high availability, text search, and range partition with local index
+http://www-01.ibm.com/software/data/db2/xml/
+Ł IBM Corporate Award
+Senior Manager & Architect, DB2 Data Warehouse Edition at IBM
+July 2001  -  January 2007 
+(5 years 7 months)
+Created an ELT tool SQL Warehousing that allows users to build data flows in an Eclipse-based visual
+ environment, and run generated SQL to move and transform data. Served as the technical focal point to
+ integrate with the one-billion-dollar Ascential acquisition
+Led a 100-plus-people team to deliver the new DB2 Warehouse Edition 9 platform (DWE 9). DWE 9 extends
+ DB2 with BI features including modeling, data integration, mining, text analysis, OLAP, and a single
+ pluggable user interface
+Drove product positioning, packaging, and sales enablement. DWE 9 is now the InfoSphere Warehouse, the
+ strategic IBM warehousing platform
+Manager, Red Brick Warehouse Kernel Engineering at Informix (Acquired by IBM)
+January 1999  -  July 2001 
+(2 years 7 months)
+Developed database versioning, backup/restore, XML data exporting and parallel XML loading, a new
+ system catalog, advanced data loading, star index and star join processing
+Software Engineer
+1997  -  1999 
+(3 years)
+Parallelized the entire Red Brick data warehouse engine on the windows platform"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.328322377867848, education=8.38184379405392, summary=6.230462898464864)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Principal Software/Firmware Engineer
+July 2007  -  Present
+Embedded solutions and Linux.
+www.surfbytes.com
+Software Engineer at IGT
+June 2007  -  July 2017 
+(10 years 2 months)
+*** Live Electronic Table Game Team (ETG) ***
+Support and develop embedded Linux component of ETG.
+Refactored secure boot process for 3rd party embedded Linux (ARM) based system (bootrom, MBR, initrd,
+ kernel,rootfs) to use ECDSA signed packages. 
+*** Communal Bank Devices Team ***
+Implemented several proprietary communication  protocols for Casino industry (e.g. Slot Accounting System
+ (SAS)) 
+Develop services in C# on secure embedded Windows 7 platform (Universal Controller - UC) to support slot
+ games.
+Worked with windows device driver developer to implement SAS layer for application interop.
+Rewrote Clerk Validation Terminal (CVT) software written as embedded i960 app to run on embedded
+ windows. 
+Created UI for CVT running on UC using WPF.
+Refactored custom bios and boot loader for 3rd party embedded Linux SoC to improve security and
+ performance of boot sequence.
+Added USB logging functionality.
+*** Dark Horse Game Studio - Bonus Game Development ***
+ 
+2
+Worked with creative teams to develop back end services for slot bonus games.
+Developed bank bonus server game engine and provided rapid prototyping support. 
+Created and validated Paytable evaluator for reel slots.
+Implemented core flash player functionality on AVP platform (QNX,C++).
+*** Electronic Table Games - ETG ***
+C++ development for recently acquired 3rd party embedded Linux controller that connects game terminal to
+ back end host system (SAS).
+*** Player tracking system - Advantage Bonusing Team ***
+Supported C++ development for large Windows CE based embedded player tracking system.
+Implemented SSL  and OCSP for G2S client.
+Solved critical  problems with 3rd party Flash platform that threatened successful deployment. 
+Resolved issues with development tool chain which greatly improved the stability of product releases.
+Senior Software Engineer at Maxxess Systems
+April 2004  -  May 2006 
+(2 years 2 months)
+*** Access control systems - Embedded Linux ***
+Reported directly to Engineering VP, responsible for architectural design and development of next generation
+ embedded linux area control system interfacing to legacy hardware.
+Developed robust, multi-threaded soft-real-time applications using C++, POSIX threads.  
+Embedded SQL (SQLite) and TCL scripting engine in product, allowing easy customization.
+Developed various software-hardware interfaces including proprietary serial and TCP/IP protocols.
+Software Engineering Consultant
+June 2002  -  April 2004 
+(1 year 11 months)
+Provided software engineering services to various clients in Southern California.
+*** Konica Minolta Lab, Huntington Beach, CA - Business copier systems ***
+Assisted with development of business copier document management software using Java, XML, SOAP and
+ web services.
+Wrote specs for new product development and provided technical guidance to junior engineers.
+*** Veric Software, Santa Monica, CA (Start-Up) ***
+Assisted ex-CTO and ex-VP of Microvault with development of  unique project management solution  for
+ Windows (Accompli).
+Used MS Visual Studio and C++ with MFC, XML, SQL, SOAP.
+*** MQ Solutions, Whittier, CA ***
+Product developer for IBM MQ Series business partner applications.
+Architected and developed a multi-threaded, component based, message oriented framework for a suite of
+ Java applications that work with MQ Series.
+ 
+3
+Developed encrypted protocol handlers for working with encrypted files across a TCP/IP network Developed
+ client/server components to support remote control and monitoring across TCP/IP.
+Software Engineer
+December 1999  -  June 2002 
+(2 years 7 months)
+*** Secure document delivery software startup ***
+Responsible for full cycle design, development and implementation of premier secure document delivery
+ product, NetCourier using JAVA, XML, Xerces, JavaMail, Cryptography extensions, LDAP, S/Mime,
+ JavaScript.
+Developed core proprietary self decrypting document technology (patent pending) .
+Developed robust, multi-threaded high volume mail engine to build and deliver encrypted documents.
+Integrated S/Mime encryption and digital signing certificates with LDAP support into product.
+Developed remote console and API using TCP/IP sockets to remotely control and monitor server.
+Software Engineering Consultant
+February 1997  -  December 1999 
+(2 years 11 months)
+Provided software consulting services to various clients in Southern California
+ 
+ *** Disneyland ParkAnaheim, CA ***
+Scientific Systems and Ride Control Systems Group 
+Supported software development efforts for new theme park (California Adventure).
+Wrote specifications and PLC software for changes to Monorail control system
+Supported PLC and AB PanelView software troubleshooting efforts on Malaboomer (Space Shot) ride.
+*** Excellon Automation, Torrance, CA ***
+Designer and manufacturer of state of the art automated PCB drilling systems.
+Wrote specifications, designed and developed control software and Visual Basic ActiveX controls to interface
+ Laser Drilling equipment to automated robotic Autoloader.
+Supported R&D and test groups in design and trouble-shooting efforts.
+*** Yaskawa-Motoman Inc., Cypress, CA ***
+Designer and manufacturer of unique modular robotic systems.
+Responsible for software support and maintenance of modular robot control software (UNIX)   
+Wrote application software using MS Visual C++ and MFC for robot system configuration.
+Wrote multi-threaded motion and I/O control software for multiple  robotic manipulators.
+Software Section Head
+November 1992  -  November 1996 
+(4 years 1 month)
+Designer and manufacturer of sophisticated robotic automation systems for laboratories.
+ 
+4
+Worked with small software team developing state of the art robotics and control systems for sophisticated
+ clinical laboratory and industrial automation systems.
+Developed control system software, drivers and object oriented graphical user interfaces in C++ for robotic
+ aliquotting station and instrument loading robotics.  
+Developed C++ control software and graphical user interface for robotic palletizing system. Developed line
+ scheduling and dynamic path planning/obstacle avoidance algorithms to optimize robot motion paths through
+ changing work envelope topologies.
+Developed motion and I/O control software on various types of motion controllers, robot controllers and
+ PLCs.
+Control System Simulation and Analysis Engineer
+November 1989  -  November 1992 
+(3 years 1 month)
+***Designer and manufacturer of the NASA Space Shuttle Remote Manipulator System (SRMS) robot arm
+ ***
+Responsible lead for design, test and implementation of major control system change to SRMS arm control
+ software that significantly improved arm performance for heavy payload handling.  
+Changes incorporated into shuttle software for flight use in 1994.
+Developed payload attitude control algorithms and implemented them in real time and non-real time
+ simulators.
+Organized and conducted astronaut training and control system evaluation in real-time simulator (SIMFAC)
+ and performed support engineering simulations and analysis for the SRMS program. 
+Spearheaded development of Windows/C application for simulator configuration used at SPAR/NASA.
+Presented monthly interim progress technical reports to NASA management. 
+Traveled to the Johnson Space Center (JSC) as required to discuss and present technical issues.
+Received commendable performance review rating in 1992 (highest rating in-group of 12).
+Research and Development Engineer - Robotics
+September 1985  -  October 1989 
+(4 years 2 months)
+Designer and manufacturer of automated case handling equipment and robots.
+Responsible for the design and development of a PC based multiple axis robot motion controller. 
+Designed, built and programmed embedded motor controller boards for use with Apple II+ and IBM PC
+ based host controller.
+Wrote control software in C, 8088 assembly, 6502, 6802 assembly language and burned EPROM's for use
+ with 6802 controller boards. 
+Wrote a ladder logic compiler and simulator to perform functions of a programmable logic controller (PLC)
+ to control and monitor external input and output devices."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.1805401748759445, education=8.139993553267056, summary=5.88243715451236)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Staff Software Engineer at Google
+2014  -  Present
+Software Engineer at Google
+2010  -  2014 
+(5 years)
+Software Engineer at Google
+2007  -  2010 
+(4 years)
+Intern at Motorola Mobility
+March 2006  -  September 2006 
+(7 months)
+Intern at Intel Corporation
+May 2004  -  August 2004 
+(4 months)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=2.6043275207799588, education=8.42306591389108, summary=8.564883212111999)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Senior Staff Software Engineer & Tech Lead Manager at Google
+December 2014  -  Present
+Manage a team to build content understanding infrastructure
+Manage a team to produce contents used by Google Search
+Lead a team to build query understanding infrastructure
+Staff Software Engineer at Google
+July 2007  -  November 2014 
+(7 years 5 months)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=2.9514920052016396, education=7.847425523203027, summary=5.992074039803709)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at Google
+July 2006  -  Present"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=3.024205606339277, education=7.438578075120491, summary=6.548880789372678)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Engineering Manager at Facebook
+February 2012  -  Present
+Building analytics infrastructure for Facebook's data warehouse. I work on problems related to scale, storage
+ and compute efficiency for the analytics infrastructure at Facebook.
+https://developers.facebooklive.com/videos/560/lifting-the-curtain-the-data-infrastructure-behind-facebook-
+apps
+http://gigaom.com/2013/06/06/facebook-unveils-presto-engine-for-querying-250-pb-data-warehouse/
+Principal Development Lead at Microsoft Corporation
+February 2010  -  March 2012 
+(2 years 2 months)
+SQL Server Engine - Workload optimization and Database Management, Scale out solutions
+Senior Development Lead at Microsoft Corporation
+January 2008  -  February 2010 
+(2 years 2 months)
+Bing Search relevance team
+Senior Software Engineer at Microsoft Corporation
+June 2002  -  December 2007 
+(5 years 7 months)
+Worked in the WinFS team on promotion of file properties into structured items. Also was a senior developer
+ in the SQL server database engine on the query plan cache.
+Member of Technical Staff at Oracle
+May 2001  -  May 2002 
+(1 year 1 month)
+Server manageability team. Built workload based advice views for the memory manager.
+Senior Software Engineer at Propel Software Corporation
+February 2001  -  May 2001 
+(4 months)
+Integration of a main memory database into the server of a B2C platform."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=3.5971619527800303, education=8.561737486123645, summary=6.4267710365139115)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at IGT
+August 2012  -  Present
+Software Engineer at Cantor Gaming
+August 2010  -  August 2012 
+(2 years 1 month)
+Mobile game development.
+Technology/Language: C++, C#, OpenGL ES, Android NDK
+Ł Responsible for development and support of company™s Windows mobile & PC Gaming application.
+Ł Responsible for porting of company's Gaming application to Android using NDK.
+Research Intern at Boston Scientific
+May 2009  -  July 2009 
+(3 months)
+Technology/Language: C#, .NET CF 3.5, Python, Windows Mobile 6.1
+Project Responsibilities:
+Ł Add a new feature to existing Desktop Python application to collect data from and program medical device.
+Ł Identify mobile platform & mobile with USB host functionality.
+Ł Get the mobile phone to recognize and communicate with USB CC1111 device through serial port.
+Ł Develop mobile application to collect data from and program the device through serial port.
+Ł Preparing low level analysis & design documents, and code documentation.
+Software Engineer at Azingo Inc. (formerly Celunite Inc.)
+December 2006  -  August 2008 
+(1 year 9 months)
+Technology/Language: C, GObject/Glib Framework, Gtk+
+Platform: Ubuntu 6.10 Linux Kernel (2.6.14) x86 and ARM scratchbox, TI OMAP-850 dual processor board.
+Project:
+Responsible for developing UI framework for Azingo Linux mobile platform to facilitate application
+ developers to develop highly optimized high performance mobile applications.
+ 
+2"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.352916987711907, education=9.232347700259417, summary=7.102261743297782)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+VP of Engineering Google - Search Ads  at Google
+July 2003  -  Present
+Software Engineer
+Software Engineer
+February 2003  -  July 2003 
+(6 months)
+Software Engineer
+May 2002  -  February 2003 
+(10 months)
+Software Engineer building High Performance Column Based Database.
+Software Engineer at PeopleSoft
+June 2001  -  May 2002 
+(1 year)
+Software Engineer
+2000  -  2001 
+(2 years)
+Heterogenous database
+Software engineer at IBM
+1996  -  2000 
+(5 years)
+Query optimizer for DB2.
+Summer Intern at Hewlett-Packard Laboratories
+1991  -  1991 
+(1 year)
+TickerTAIP: The parallel RAID Array"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.084633029197149, education=8.678479336671638, summary=7.532637457936605)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+SDE II Amazon Video at Amazon
+August 2016  -  Present
+Software Programmer as a Consultant at Seachange Intl
+June 2015  -  August 2016 
+(1 year 3 months)
+Client Seachange International: Multimedia Middleware Solutions
+Ł Implemented and developed a Prototype for MP4 parser in C++.
+Ł Captured requirements to support Media source extension-MSE for HTML5
+Ł Implemented Unit Test module.
+Ł Implemented module to support encrypted recordings in Set-top-box
+Ł Used NAGRA DRM to manage credentials by interacting with the secure chipset driver.
+Ł Configured DMA and aligned buffer for accurate transformation
+Member of Technical Staff at AMD
+June 2013  -  June 2015 
+(2 years 1 month)
+Audio vertical Design:
+High level design of various software components
+Implementation of the changes that are expected in the newer Android release KitKat. 
+ 
+2
+Presenting the design in the design summit organized at product level to various stake holders involving
+ Android architects, Fellows, Directors
+Coming out with all the tools required for the subsystem
+GIT infrastructure modeling for Audio and guidance for team on development.
+C++ object oriented implementation to realize Open-Max standard interface
+Senior system Engineer at ST-Ericsson
+September 2009  -  June 2013 
+(3 years 10 months)
+Android HAL porting for audio subsystem
+Software Engineer
+June 2009  -  September 2009 
+(4 months)
+Prototyped Video Conferencing product by offloading x264 codec in hardware
+Engineer at Freescale Semiconductor
+April 2006  -  May 2009 
+(3 years 2 months)
+Developed algorithms for codecs including mp3,aac,sbc and amr.
+Patented one of the huffman decoding algorithm.(http://www.google.com/patents/US7773003)
+Made use of ARM11 assembly level programming including SIMD to achieve efficiency.
+Software Engineer at Aricent
+January 2005  -  May 2006 
+(1 year 5 months)
+Previously known as Flextronics Software Systems. Designed and implemented a logging module for all
+ software subsystem. Required various inputs from software stack stakeholders to complete the
+requirements. The implementation was done in C programming
+Assistant System Engineer at Tata Consultancy Services
+June 2005  -  January 2006 
+(8 months)
+Maintained different large scale customer deployed website. Implemented various solutions in Java involving
+ object change for an issue in order and
+delivery."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.380595618495756, education=8.97132234995995, summary=6.520609528690456)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at Google
+2003  -  Present"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=3.076434370732051, education=5.894201710583767, summary=4.782080103399)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Illustrator
+September 2016  -  Present
+Create weekly illustrations for the Boston public radio show Open Source with Christopher Lydon.
+ Illustrations range from on-site drawings to conceptual, editorial illustrations and can be viewed at http://
+www.coyneworks.com/illustration/#/editorial/ and http://www.coyneworks.com/illustration/#/live-drawing/.
+ Also contribute cultural reviews to the weekly newsletter and help manage the social media accounts.
+Writer/Illustrator
+2013  -  Present
+Work with a variety of individual and corporate clients on projects including book illustration, editorial
+ writing and illustration, portraits/personal commissions, and graphic design work. For more information,
+ visit www.Coyneworks.com.
+Content Writer at Gradesavers
+2013  -  2014 
+(2 years)
+Researched and wrote full-length study guides on graphic novels, nonfiction work, and poetry collections.
+Research Assistant at The Forsyth Institute
+June 2011  -  August 2013 
+(2 years 3 months)
+Assistant to Dr. Toshihisa Kawai, DDS, PhD, at the Forsyth Institute, a dental research clinic and laboratory
+ affiliated with Harvard School of Dental Medicine.
+Responsibilities: editing scientific manuscripts and liaising with scientific journals to streamline publication;
+ assisting visiting Japanese researchers with immigration/transition into Cambridge and the laboratory;
+ managing the day-to-day operation of the laboratory; translating documents/correspondence from JP->EN;
+ assisting Japanese researchers with their English language education.
+Resident Director
+May 2010  -  August 2010 
+(4 months)
+-Served as the in-country Resident Director of a Japanese language program in Kyoto, Japan.  
+-Worked with American college and graduate students who were the recipients of full scholarships from the
+ State Department to study Japanese in an intensive two-month program.  
+ 
+2
+-Arranged weekly cultural excursions to areas of interest in and around Kyoto, as well as a week-long
+ countrywide tour including Hiroshima, Yokohama, and Tokyo.  
+-Assisted students with various aspects of cultural adjustment and language learning while working closely
+ with local staff at Doshisha University.
+Language Teacher
+August 2007  -  August 2009 
+(2 years 1 month)
+-Instructed approximately 2,000 junior high school and 500 kindergarten students in English language and
+ conversation.  
+-Organized and implemented original and effective lesson plans, often incorporating current international
+ news events to increase students™ global awareness. 
+-Coordinated promotional events for the city of Kurobe.
+*Honors: 2009 Toyama Honorary Friendly Envoy Award.  Awarded by the Toyama Prefectural Government
+ in July, 2009, for promotion of tourism in Toyama through international festivals.
+Public Relations Assistant at Portland Museum of Art
+May 2006  -  August 2006 
+(4 months)
+-Compiled press releases about new exhibits
+-Distributed information to museum members and potential donors
+-Promoted exhibits to the press
+Assistant to the Professor of Religion
+January 2006  -  April 2006 
+(4 months)
+Preparing coursework weekly; writing up exams; coordinating visits to local sites"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.262186866743434, education=8.635099942451966, summary=7.151952900467362)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Audit Partner
+December 2011  -  Present
+Performing independent financial and compliance audits. If we can ensure a pleasant audit experience with
+ efficient, educational results, we have accomplished our goal.
+Audit Supervisor at Hansen, Barnett & Maxwell
+September 2005  -  January 2012 
+(6 years 5 months)
+Auditor
+April 2003  -  May 2005 
+(2 years 2 months)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.082982124882803, education=11.95317832010688, summary=8.207089940913528)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Senior Engineering Director at Google
+March 2014  -  Present
+Protect Google's end users. Protect Google's core business.  Rethink AdWords, AdX, and DBM policy
+ enforcement from the ground up.
+Engineering Director at Facebook
+August 2013  -  March 2014 
+(8 months)
+Worked on insights, measurement, and reporting.
+Engineering Director at Google
+August 2005  -  July 2013 
+(8 years)
+- DoubleClick Search - April 2010 to July 2013 - eng mgr and then director
+- AdWords Opportunities tab - August 2009 to October 2010 - eng mgr
+- TV Ads - July 2007 to April 2009 - eng mgr
+- Google Apps - August 2005 to August 2009 - software engineer and then eng mgr
+Freelancer
+2001  -  2007 
+(7 years)
+Senior Software Engineer at EarthLink, Inc.
+May 2003  -  August 2005 
+(2 years 4 months)
+FE engineer
+Software Engineer
+July 2002  -  March 2003 
+(9 months)
+FE/BE engineer
+Principal Engineer
+August 2000  -  August 2001 
+(1 year 1 month)
+Member of awesome 7 person eng team
+Software Engineer at Intuit, Inc.
+ 
+2
+1998  -  2000 
+(3 years)
+FE engineer on web-based finance app
+Software Engineer at Oracle Corporation
+1996  -  1998 
+(3 years)
+UI toolkit library developer
+Software Engineer Intern at IBM
+June 1995  -  September 1995 
+(4 months)
+Software Engineer Intern at NCR
+1993  -  1994 
+(2 years)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=3.9204540290435066, education=7.9848829003725506, summary=7.547501668405621)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at Google
+May 2016  -  Present
+Working on Google Maps photo upload.
+Software Engineer at YouTube
+March 2015  -  April 2016 
+(1 year 2 months)
+# Launched Official Artist Channels                                                          
+# Improved internal tool for searching music entities.      
+# Set up back-end pipeline jobs using Python/Mapreduce.
+# Designed and set up experimental study for two YouTube Music projects.
+UI/UX Designer Intern
+July 2013  -  August 2013 
+(2 months)
+ŁUser experience for RoomHints ios APP
+ŁConduct market research of App market about home decorator and style.
+ŁDesign and Wireframe concepts for RoomHints.
+ŁBuild RoomHints prototype.
+ŁImplement front-end design.
+ŁMarket Roomhints app online."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.672843455568407, education=10.085580952361882, summary=8.36030839763119)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at Facebook
+November 2014  -  Present
+Engineer Staff II - Software Development Engineer at Broadcom
+July 2012  -  November 2014 
+(2 years 5 months)
+Customer Support
+Linux Kernel Driver Integration
+Secure OS Integration
+Google Android Qualification test (GTS and CTS tests)
+USB driver Qualification and Microsoft WHQL
+Power SI/ System SI Simulation
+Memory Qualification/Validation
+Web Development Intern at CBS Television Distribution
+September 2011  -  December 2011 
+(4 months)
+Ł This project is to rebuild the video streams management system to provide faster access and better user
+ interaction.
+Ł Rewrote the frontend using HTML, CSS, JavaScript, jQuery to improve the system interface and response
+ speed.
+Ł Implemented the backend by PHP and optimized the data structure using MySQL to increase data fetching
+ speed.
+Web Development Intern at Sony Pictures Entertainment
+June 2011  -  August 2011 
+(3 months)
+Ł Developed the web application Metadata Exporter for Crackle Admin Tool, which includes data fetching
+ from database, data analysis, data conversion and sending email with attachments.
+ 
+2
+Ł Developed on Visual Studio and MS SQL Server platforms using ASP.NET, C#, jQuery, JavaScript,
+ HTML, CSS.
+Network Services Student Worker
+September 2010  -  May 2011 
+(9 months)
+Install OS and application software, configure BIOS, Ghost image, set up network connections (Novell),
+ computer maintenance, debug errors for users."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.190005543629032, education=9.362923604769305, summary=7.401688714065554)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Senior Staff Software Engineer / Engineering Manager at Google
+May 2013  -  Present
+Tech Lead manager for Image Search at Google. I strive to make Image Search more useful, inspiring and fun
+ for users.
+Senior Software Engineer / Tech Lead at Google
+September 2009  -  April 2013 
+(3 years 8 months)
+I was the Tech Lead of backend Infrastructure, Search and Recommendations for a social network project at
+ Google.
+Software Engineer at Google
+July 2007  -  August 2009 
+(2 years 2 months)
+I was a software engineer working on data storage, annotation and search of Product Search at Google. "
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=2.8444836487923193, education=7.2266264649479, summary=5.477010986048444)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Principal Software Engineer
+May 2017  -  Present
+Machine learning / deep learning for ranking
+Machine translation 
+Automatic speech recognition
+Speech synthesis
+Applied research in deep learning in general
+Senior Staff Software Engineer
+October 2014  -  April 2017 
+(2 years 7 months)
+Ranking
+Machine learning for ranking
+Deep learning in general
+Staff Software Engineer at Google
+October 2012  -  September 2014 
+(2 years)
+Google search ranking
+Senior Software Engineer at Google
+October 2010  -  September 2012 
+(2 years)
+Software Engineer at Google
+September 2008  -  September 2010 
+(2 years 1 month)
+Database Support Engineer at Microsoft
+July 2001  -  August 2004 
+(3 years 2 months)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=2.917678291224553, education=8.005620805707359, summary=7.164727242271484)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+Software Engineer at Google
+January 2016  -  Present
+VideoAds Audience Targeting
+Software Engineer Intern at Google
+June 2015  -  August 2015 
+(3 months)
+Make Youtube Faster
+"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.161802109066402, education=9.042160322405099, summary=8.014364857270063)
+Expected section: work_experience
+Predicted section: work_experience
+CORRECT
+
+"
+- Built and launched Machine Learning/AI/Data Science services and development tools in Google Cloud
+ Platform at Google (https://cloud.google.com/ml-engine and https://cloud.google.com/datalab).
+- 16 years of exceptional track record building Cloud, web and mobile applications, tools, frameworks and
+ platforms at Microsoft (Azure, ASP.NET, Bing).
+- Diverse set of skills based on launching products and services ranging from machine learning and web
+ developer platforms/tools/services to consumer experiences.
+- Hands-on approach and execution through all stages of product cycle from idea inception/incubation, vision
+ development, prototyping, architecture definition and design, implementation, shipping and presenting/
+evangelizing to customers.
+- Delivered results in different roles spanning software engineer, engineering lead, and architect, in different
+ capacities from individual contributor, manager and mentor.
+- Solid design/architecture skills combined with pragmatic approach to development and ability to relate to
+ business needs/requirements, to connect and engage directly with customers and understand/incorporate new
+ technologies.
+- Filed and awarded 50+ patents and received many awards over the course of my career.
+- Creator of Script# (https://github.com/nikhilk/scriptsharp)
+- Reachable via my web site (http://www.nikhilk.net) or via twitter (http://twitter.com/nikhilk)"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=4.393327027597693, education=8.912292578197274, summary=5.824884886454023)
+Expected section: summary
+Predicted section: work_experience
+INCORRECT
+
+"
+Specialties: Linux device drivers (I2C, ALSA, SPI, Video, Input, MTD, USB, MMC, PCI, PCIe, Serial)
+Linux kernel development (Board support, bring up)
+Embedded systems
+U-Boot
+Networking
+Media (Audio/Video) (VLC, FFMPEG, DirectFB)
+C
+Board bring up"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.3422647430755035, education=11.468097301523091, summary=7.755088499553842)
+Expected section: summary
+Predicted section: work_experience
+INCORRECT
+
+"
+Extensive experience providing assurance services to public companies, private companies and governmental
+ entities.
+Specialties: Assurance services"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=8.352004002420571, education=11.212810679786084, summary=6.5344420433224935)
+Expected section: summary
+Predicted section: summary
+CORRECT
+
+"
+Seasoned Professional Engineer with a wide range of technical experience in several industries and a 'Get It
+ Done' kind of guy."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=8.236541931366459, education=10.63923324448126, summary=7.141041376354714)
+Expected section: summary
+Predicted section: summary
+CORRECT
+
+"
+Ł About four years of mobile development experience.
+Ł Master of Science in Engineering (Major: Computer Science) from Johns Hopkins University."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=5.287423341604521, education=7.650845367539108, summary=6.528832397628508)
+Expected section: summary
+Predicted section: work_experience
+INCORRECT
+
+"
+10 years of experience in Multimedia, Audio and Android in Embedded domain in Semiconductor
+ Industry(AMD, ST-Ericsson, Freescale). 
+C, C++, Assembly Level Programming-ARM11, ARM9, Android
+Patent in MP3 Huffman decoding.
+Skilled in Android HAL, Openmax, Audio Codecs. 
+Hands on in Android Porting.
+Strong communication skill, Analytical mind and Leadership Qualities."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.636571692668115, education=11.088352948598262, summary=7.969351690483996)
+Expected section: summary
+Predicted section: work_experience
+INCORRECT
+
+"
+Experienced engineering leader.  I love to recruit, figure out what to build, and build it.  My passion is to ship
+ stuff."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=8.716819412109492, education=11.567857865792709, summary=5.999513060183655)
+Expected section: summary
+Predicted section: summary
+CORRECT
+
+"
+Google/YouTube SWE. 
+Not interested in new opportunities at this moment. Thank you."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=7.408776814269953, education=10.900230834820647, summary=7.697104474794898)
+Expected section: summary
+Predicted section: work_experience
+INCORRECT
+
+"
+Specialties: Languages: C, C++, Java, HTML, CSS, JavaScript, AJAX, jQuery, PHP, SQL, C#, ASP.NET,
+ ASP, VBScript, Perl
+Applications: Microsoft Office, Visual Studio, Eclipse, NetBeans, Dreamweaver, phpMyAdmin, Keil, Protel,
+ Photoshop 
+Web Servers and Databases: Apache, Tomcat, IIS; mySQL, Oracle, MS SQL Server, MS Access"
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.980548799644934, education=11.189763101742628, summary=9.047164780584144)
+Expected section: summary
+Predicted section: work_experience
+INCORRECT
+
+"
+Search and recommendation, image understanding, image discovery, beautiful and useful image products."
+----------------------------------------------------------------------
+SectionsEstimation(work_experience=6.92550341160077, education=14.145094244564705, summary=9.605519951755463)
+Expected section: summary
+Predicted section: work_experience
+INCORRECT

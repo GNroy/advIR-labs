@@ -1,0 +1,434 @@
+
+
+N/A
+
+
+Currently I am an engineer and I recently obtained an MBA. My long term goal is to become a CEO and
+ make a difference in the world one day so I believe having an MBA will help me get there. Throughout my
+ MBA program I have developed many skills that will help me identify and solve hard and exciting problems,
+ understand a business and its goals, have great presentation and communication skills, and be a great leader. 
+Great leaders communicate well, they are passionate, they inspire others, they are creative, they are patient and
+ they are honest. I believe that I possess these and many other qualities that make a leader effective and worth
+ following. I love taking on a challenge and learning something new because as a result I always grow and
+ become a better person. I work hard every day and I believe that today should be better then yesterday was. 
+I stay positive in the best and worst situations because it always helps me make good progress. I love trying new
+ things and I love a good routine. I worked hard my whole life to get to where I am today and I do not believe
+ in failure. Whenever I fail I see it as a positive thing because I accomplish and learn something new. It also
+ helps me narrow down which skills and areas I need to improve on. Whenever I succeed I feel accomplished
+ and intrinsically rewarded. 
+I never want to stop learning or being challenged in and out of my comfort zone. I enjoy listening to motivating
+ speakers, reading about new technologies, learning about advancements in medicine, and keeping up with the
+ stock market. I love working with people because it is fun, exciting, and adventurous. I always find it amazing
+ how much people can accomplish when they work together and are open to change. I always enjoy spending
+ time with my family and my friends.
+
+
+Customer focused with dedication to regulations and guide lines. Fast learner.
+Have recent experience in software troubleshooting, maintenance, and installation on Windows XP and 7
+ Professional, VM Ware ESX and Fusion, Mac OSX and Linux Red Hat and Ubuntu platforms.
+Experience in hardware and software installation, maintenance, and troubleshooting, on Windows, Linux and
+ UNIX based platforms
+LAN and wireless infrastructure support as well as interaction with WAN
+Experience in multimedia educational software quality assurance.
+
+
+N/A
+
+
+N/A
+
+
+Most recently: 
+Multi-years of software development and architecture in payments and search infrastructure using Rails, Java,
+ Scala, C/C++, JavaScript, Python.
+In the Past:
+Programming 
+Ł Designed and implemented multiple software packages for molecular network data analysis.
+Ł Designed and implemented a programming language ﬁAcumenﬂ that was used in teaching and research for
+ prototyping cyber-physical systems at Rice & University of Houston
+Data Analytics 
+Ł First-hand experience in analyzing molecular network data and oilfield equipment logs
+Ł Used several machine learning algorithms in research projects
+Math and Logics 
+Ł Completed over 20 courses on math, statistics, logics and theory of computation related
+Research & Technical Communications 
+Ł Broad research experience in bioinformatics, computer theory, programming language, physical systems
+ modeling, formal modeling and verification, and embedded systems
+Ł 19 peer-reviewed publications
+Ł Effectively deliver multiple talks and posters to audience with diverse backgrounds
+
+
+Designed and implemented the first Google Global Cache (GGC, a CDN platform embedded in operator
+ networks). Over time, led Google™s Content Delivery Network (CDN) efforts including GGC and oversaw
+ the CDN grow its scale several orders of magnitude into one of the largest in the world with GGC deployed
+ today by several hundreds of carriers globally. Instrumental in bringing Software Defined Networking (SDN)
+ and Network Function Virtualization (NFV) concepts to Google™s traffic engineering and edge networking
+ infrastructure. Leading projects over the last few years that enable wireless operators to run their networks
+ more efficiently. 
+I'm also on the board of the open-source project CORD which aims to bring datacenter economics and cloud
+ agility to the Telco Central Office. I hold more than a dozen patents and conference papers filed/granted/
+published. My closest potential shot at stardom though was when I went to Los Angeles in 2013 as part of the
+ team that collected the 65th Primetime Emmy Engineering Award for YouTube; but a couple of years later I
+ am still at Google :P
+Domain Expertise: Connectivity, Internet access, Wireless, CDN, Content Distribution, SDN, Wireless
+ Performance, Mapping, TCP, Caching, DNS, Load Balancing, Large-scale Distributed Systems, Networking,
+ Internet Measurements, Routing.
+Functions: Engineering lead. Centrally involved in product, strategy, project management and partnerships.
+
+
+N/A
+
+
+N/A
+
+
+SKILL SETS:
+Ł Governance (business reporting, strategies/approaches, work plans, resource and issue management, budget
+ management)
+Ł Alignment (sponsor and stakeholder management, change leadership development, stakeholder assessments,
+ impact assessments, team building)
+Ł Readiness (current/future state definition, gap analyses, KPI development, contingency planning, stabilization,
+ and solution maintenance)
+Ł Communications (communications planning and execution, audience & content analysis, content
+ development, editing, reviews and distribution)
+Ł Training (training planning and execution, technical and non-technical instructional analysis, design,
+ development, implementation and evaluation)
+Ł Business Presentations (road shows, in-service sessions, brown bag lunches, webinars, etc.)
+WORK ACTIVITIES:
+Ł Facilitated Business Process Transformation/Improvement visioning and planning sessions using methods
+ such as Prosci™s ADKAR model Kotter™s 8 Steps, SWOT sessions, appreciative inquiry, etc. 
+Ł Contributed to data gathering efforts using specialized techniques such as organizational network analysis,
+ structured interviews, gap analysis, focus groups, electronic surveys and questionnaires.
+Ł Led and supported the development and execution of  (OD) strategies, partnering with senior leaders, business
+ process owners, project sponsors, managers and team leads 
+ Ł Created and managed comprehensive tactical OCM and OD project plans required to support large scale
+ radical and incremental change initiatives across hierarchical and networked organizations
+Ł Created and managed large scale current to future state analyses, stakeholder analyses, impact analyses, gap
+ analyses, root cause analyses, organizational readiness analyses, etc.
+Ł Created, implemented and managed communications plans, deliverables and review/approval processes for
+ business improvement projects
+Ł Developed and executed Training plans and deliverables supporting technical and soft skills changes
+
+
+Cloud computing
+
+
+N/A
+
+
+N/A
+
+
+N/A
+
+
+I have work experiences in quite a few projects inside Google Search, from crawl to indexing, mainly about
+ improving search data quality using a technique I created. The technique enables us to generate regexp based
+ URL patterns from trillions of URLs automatically. Using these url patterns, we group similar URLs together
+ and use that to predict utility for web pages in crawl / indexing. I also built an infrastructure to serve billions of
+ url patterns, which could support dozens of millions of URLs / sec in production environment. This work has
+ turned out to be very useful, including several most important launches in related areas.
+Currently, I am working with more people / teams to use the technique in more areas, like dup, spam, rank.
+
+
+N/A
+
+
+N/A
+
+
+N/A
+
+
+N/A
+
+
+David D™Arcangelo is Director of the MassachusettsOffice On Disability and is a Malden City Councilor At-
+large.
+David is considered one of the Commonwealth's most prolific political activists and was the 2014 Republican
+ nominee for Secretary of State. 
+David was also Managing Director for Arc Angel Communications and Adjunct Faculty at Suffolk University.
+With over 22 years of professional experience, David has been the catalyst for a large number of successful
+ public endeavors including winning political campaigns, corporate turnarounds and non-profit triumphs.  
+Having served five Governors and as an aide in the State Senate, David is one of only a handful of public
+ servants to have inside working knowledge of both the Executive and Legislative branches of Massachusetts
+ State Government.  Appointed by Governor Mitt Romney to the Mass. Commission for the Blind Rehab
+ Council and reapponited by Governor Patrick, David is considered a leading authority on public policy
+ issues regarding disabilities.  He has also served in leadership positions for several Boards and Commissions,
+ which has helped to make David one of the most trusted and respected sources for public affairs and civic
+ information. 
+David™s private sector experience is highlighted by the incredible transformations of a companies that were
+ losing money and now, through David™s expertise, are turning a profit.  A polished public speaker, writer
+ and team player, David has demonstrated strengths in: Writing, Financial Management, Issue Advocacy,
+ Technology Integration, Public Policy, Campaign Management, Team Leadership and Event Organization. 
+David has an impressive 3-0 record as a Campaign Manager and ran one of the most successful State Senate
+ campaigns in state history.  His innovative plan for ﬁSunsetting Campaign Warchestsﬂ has been editorialized
+ and received critical acclaim, as has his Constitutional amendment to alter the Massachusetts Constitutional
+ amendment process.
+
+
+Experienced Finance with a demonstrated history of working in the dental accounting industry. Skilled in cloud
+ based accounting, financial statements, small business entity structuring, and tax. Strong finance professional
+ with a MAcc from Southern Utah University.
+
+
+I have been working in the glass and glazing business since the age of 14.  I started my Business Inner-
+City Glass Company when I was 16.  I often said that it takes a special person to own and run their own
+ company. I love what I do and my relationship with my customers reflect that. Please see my reviews @
+ www.FixMyBrokenGlass.com. Please call me for any question in regards to glass and glazing.  I am happy
+ offering the best advice possible.
+Specialties: Frameless shower glass doors-Stained and leaded glass-  Aluminum doors and entrances-Vinyl
+ replacement windows-furniture and desk top glass-Low-e insulating glass.
+
+
+Associate professor at Virginia Tech and President of Dickerson Environmental Consulting.  Expertise areas:
+  control of pollutants arising from the built environment (lead, asbestos, radon, dust), facility maintenance
+ management, pollution prevention, environmental site assessment, and process design.  
+
+
+N/A
+
+
+# Expert knowledge and hands-on experience of both quantitative and qualitative analysis, data mining,
+ optimization and database operations, proficient in R, SQL, Hadoop, SAS, SAS Enterprise Miner, JMP,
+ Matlab, Minitab, Stata, Dedoose, Access, Visio and Arena
+# Solid knowledge and sufficient analytical experience in modeling and evaluating technology and information
+ system in healthcare
+# Skilled in business intelligence, resource planning and customer relationship management tools: SAP, IBM
+ Cognos, Oracle Siebel, Agile and EnterpriseOne
+# Programming skills in VBA and C
+# Strong communication, presentation and project management skills
+
+
+N/A
+
+
+N/A
+
+
+N/A
+
+
+We are, at times, a strange brew. But this is what works for us Š and inevitably, it works for our clients. The
+ types of people who work at PARAGRAPH are strategists, anthropologists, artists, engineers, entrepreneurs,
+ negotiators, students and builders. Herein lies our value. We are able to look at problems from many different
+ perspectives and apply this diverse point of view to solutions for our clients.
+When we respond to a client™s brief we don™t just think about the research they want to do. We think about
+ their business and marketing objectives. Then we step back and think: how can we help them get there? Often,
+ the answer is to blend the client™s proposed methodology with one of our custom "research experiments.ﬂ We
+ believe that you get the best results and the freshest insight when you attack a problem from multiple angles.
+How do we know? Because we used to be in the trenches, too. We've worked as strategists, planners, managers,
+ art directors and designers in traditional settings. And now we work as a seamless extension of your strategy
+ department. And we work to infuse the strategy proces with unbridled creativity.We™re happy to be white-
+labeled or just work in the background. It doesn™t matter to us. Our job is to simply help you make your teams
+ creative execution the best, most insightful work possible Œ no matter what it takes to get there.
+CLIENTS INCLUDE: Lowe's, Schlitz, Nationwide, JCPenney, vert & vogue, Best Buy, Target, Google, Boar's
+ Head, ESPN, Starbucks, Microsoft, Red Hat and Daylight
+Specialties:  cultural trends / consumer anthropology / consumer insights / marketing strategy / marketing
+ research / connection planning / brand planning / German language / Arabic language (MSA) / writing / editing
+
+
+Life is short. I would be happy if I can develop into the best in one area. However my curiosity always propel
+ me into uncomfortable territories.
+Since grad school, my focus has been building large scale Internet services. I am fortunate to have the
+ opportunities to build/lead several application platforms, the largest of its kind, for google search, ads and
+ shopping. Our systems are serving billions of users across the globe as well as empowering teams across the
+ organization.
+My satisfaction comes from observing my visions become reality step by step.
+I will do just about anything necessary in order to ensure the project success, being it infrastructure, quality,
+ production, or something else.
+
+
+I built Facebook News Feed Ads from its day 1.  Now I'm building Airbnb China.
+
+
+N/A
+
+
+Key Accomplishments
+-      As project consultant to the "B-SET for Career Network" in Boston, a project of Massachusetts Advocates
+ for Children, developed, designed and implemented a collective impact policy and practice collaboration
+ among nearly 60 member organizations including Boston Public Schools, disability service organizations at
+ local and state levels, workforce development intermediaries, youth development agencies, business partners,
+ organized labor and the City of Boston.
+- Developed, instituted, oversaw and monitored quality improvement processes and capacity building
+ at Boston™s three one-stop career centers during a period of volume growth from 11,000 to over 25,000
+ customers. Despite volume growth and budget and staffing decreases, rates of customer satisfaction ranged
+ between 90% and 96%. 
+- Co-founded Emerge, the first batterer intervention agency in the country. Emerge continues to serve as a
+ model for such programs.
+For over 20 years I have been involved in organization development, change management and quality
+ improvement in both the private and public sectors in settings ranging from grassroots organizations to
+ hospitals and other non-profits. Prior to that I was trained as a clinical psychologist, completing my doctorate in
+ 1990. I was a founder of Emerge, the first domestic violence batterer intervention program in the country.
+For nearly 17 years I worked at the Boston Private Industry Council on the development and implementation of
+ workforce development initiatives. My work concentrated on the roll out of the first One Stop Career Centers
+ in the country and the continuing evaluation and improvement of the products and services they offered.
+Specialties
+Organization and systems development
+Institutional culture management
+Quality improvement
+Change management
+Instructional design & delivery
+Program development & evaluation
+Communications
+ 
+2
+Facilitation and negotiation
+Partnership development
+
+
+N/A
+Education
+New England School of Acupuncture
+Master of Acupuncture, Chinese and Japanese Acupuncture, 2010 - 2015
+ 
+2
+Jasmine Moran
+Licensed Acupuncturist
+Contact Jasmine on LinkedIn
+
+
+Online advertising/Data/Cloud related engineering experience. Co-working with Marketing/Sales team for
+ various products.
+
+
+Innovate and build beautiful advertisement products
+
+
+N/A
+
+
+M.B.T.A. 1990- present. 27 years
+2014- present .Superintendent Maintenance of Way (Rapid Transit Lines) Red, Orange, Blue lines and
+ Systemwide track production 
+2007-2015 Supervisor Maintenance of Way
+( Orange Line)
+1997-2007 Section Foreman ( Track inspection)
+1990-1997- laborer, trackmen, Trackwalker ,
+Foreman.
+ 
+2
+Joe Anderson
+M.B.T.A. Superintendent Maintenance of Way ( Rapid Transit Lines)
+Contact Joe on LinkedIn
+
+
+N/A
+
+
+The effective implementation and appropriation of IT to business goals is what motivates me. This motivation,
+ coupled with a continual strive for customer satisfaction in every solution is the very foundation of my
+ character. A constant hunger for knowledge continually drives and pushes the boundaries of my own personal
+ development always looking for unique and creative solutions to problems. 
+Every problem is treated as an opportunity to excel, with a high degree of personal identity being gained by this
+ continual desire to find solutions. I base the way I work on being one step ahead of the clients requirements -
+ "Leading from in front". I have excellent communication skills that have assisted me in conveying solutions
+ and arguments generating management/client enthusiasm and the necessary momentum to bring projects to a
+ successful close. I have a proven track record as a professional and talented technical trainer, seen as an expert
+ in many different fields of knowledge by my peers.
+Specialties: Leading, mentoring and motivating a cross skill engineering team. Designing Disaster Recovery
+ Architectures and Methodologies, Designing Resilient Application Architectures, Ability to write clear and
+ concise Technical Documentation, Talented Technical Trainer, IT Consulting across many sectors Public,
+ Local/Central Government, Blue Chip and SME.
+Currently specializing in Cloud Technologies, primarily Amazon AWS. Currently leading the engineering
+ and automation efforts in a young and vibrant AWS Managed Services Partner creating Cloud Solutions to
+ accelerate customers to success.
+
+
+N/A
+
+
+Technologies that I learned
++ WiFi subsystem
+  - Linux Wireless Extentions
+  - Wpa_Supplicant
+  - NetworkManager
++ GPS subsystem
+  - Qualcomm BSP
+  - LiMo LBS framework
+  - Gypsy
++ Linux Kernel
+  - worked on Multitouch and audio drivers
+  - Also worked on uboot
++ GNU Buildsystem
+Specialties: Programming Languages: C, Python, Erlang, Clojure
+Scripting Languages: 
+Operating Systerms: Linux,
+Networking: TCP/IP, WiFi (wpa_supplicant, Network Manager),
+
+
+I'm a software engineer with a passion for numbers. I like to explore, build, challenge, and mentor. I worked
+ with robots at JPL, and am working on Augmented Reality at Google.
+I hate working on "low hanging fruit" problems.
+I don't care which programming languages, operating systems, or platforms you're developing in. Are you doing
+ cool things that are going to change the world?
+
+
+Accomplished engineering leader in quality, reliability, failure analysis, process development and
+ manufacturing for electronic computing products (both enterprise and consumer application). Able to build
+ highly motivated technical teams focused on achieving aggressive goals. Excellent verbal and written
+ communication skills
+Mechanical Engineer with strong technical background in Design for Quality/Reliability, Materials Science
+ and Advanced Data Analysis. Proven management experience of more than 15 years in the semiconductor,
+ electronics components, computing and consumer electronic industries. Led large engineering global teams.
+
+
+N/A
+
+
+N/A
+
+
+Over 15 years of experience designing and implementing software in the field of Electronic Design Automation
+ (EDA).
+Specialties:
+- Software design and implementation of high performance technical compute applications.
+- Parallel programming in both multithreaded and distributed environments.
+- Performance analysis and optimization with respect to runtime and memory footprint.
+- Extensive knowledge of EDA algorithms in the field of RC parasitic extraction.
+Goals:
+- To make significant contributions in a fast-paced, customer-oriented work environment.
+
+
+Not only using the right technologies but to use them in a right way
+
+
+I am the co-head of the LIACS Computer Systems, Imagery and Media Research cluster (30+ members), which
+ is one of the two main research groups at the computer science department at Leiden University. In addition,
+ as a member of the LIACS Scientific Council, I am responsible for steering the general direction of computer
+ science research at Leiden University. My group's mission is to investigate new paradigms for the retrieval and
+ understanding of multimedia information by developing new deep learning approaches.
+Currently, I'm also the Editor-In-Chief of the International Journal of Multimedia Information Retrieval
+ (Springer), a mid-level professor at Leiden University and building the public ACM MIR-FLICKR testbed for
+ system evaluation in media retrieval.
+
+
+N/A
+
+
+Mike is a results-oriented engineer-turned-accountant who is looking to leverage his technical background and
+ aptitude for understanding challenging concepts to successfully help clients with their taxation and accounting
+ needs. 
+Mike is a quick learner and has learned to teach himself skills and concepts without formal training. Although,
+ as an engineer, Mike has a strong aptitude for understanding how things work, he has found a much greater
+ drive for solving problems, especially those of his clients and associates. This passion and his personal
+ dedication to understand challenging problems and achieve personal and team objectives are the driving
+ motivators in his daily professional endeavors.
+Specialties: Income Tax Preparation (including partnership and corporate taxation), Business Intelligence,
+ NetSuite (CRM), MS Office/Windows
+
+
+N/A
+
+
+N/A
+
+
+N/A
+
+
+N/A
+
+
+N/A

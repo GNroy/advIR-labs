@@ -1,0 +1,112 @@
+
+
+N/A
+
+
+N/A
+
+
+- Built and launched Machine Learning/AI/Data Science services and development tools in Google Cloud
+ Platform at Google (https://cloud.google.com/ml-engine and https://cloud.google.com/datalab).
+- 16 years of exceptional track record building Cloud, web and mobile applications, tools, frameworks and
+ platforms at Microsoft (Azure, ASP.NET, Bing).
+- Diverse set of skills based on launching products and services ranging from machine learning and web
+ developer platforms/tools/services to consumer experiences.
+- Hands-on approach and execution through all stages of product cycle from idea inception/incubation, vision
+ development, prototyping, architecture definition and design, implementation, shipping and presenting/
+evangelizing to customers.
+- Delivered results in different roles spanning software engineer, engineering lead, and architect, in different
+ capacities from individual contributor, manager and mentor.
+- Solid design/architecture skills combined with pragmatic approach to development and ability to relate to
+ business needs/requirements, to connect and engage directly with customers and understand/incorporate new
+ technologies.
+- Filed and awarded 50+ patents and received many awards over the course of my career.
+- Creator of Script# (https://github.com/nikhilk/scriptsharp)
+- Reachable via my web site (http://www.nikhilk.net) or via twitter (http://twitter.com/nikhilk)
+
+
+N/A
+
+
+Specialties: Linux device drivers (I2C, ALSA, SPI, Video, Input, MTD, USB, MMC, PCI, PCIe, Serial)
+Linux kernel development (Board support, bring up)
+Embedded systems
+U-Boot
+Networking
+Media (Audio/Video) (VLC, FFMPEG, DirectFB)
+C
+Board bring up
+
+
+Extensive experience providing assurance services to public companies, private companies and governmental
+ entities.
+Specialties: Assurance services
+
+
+N/A
+
+
+N/A
+
+
+Seasoned Professional Engineer with a wide range of technical experience in several industries and a 'Get It
+ Done' kind of guy.
+
+
+N/A
+
+
+N/A
+
+
+
+N/A
+
+
+Ł About four years of mobile development experience.
+Ł Master of Science in Engineering (Major: Computer Science) from Johns Hopkins University.
+
+
+N/A
+
+
+10 years of experience in Multimedia, Audio and Android in Embedded domain in Semiconductor
+ Industry(AMD, ST-Ericsson, Freescale). 
+C, C++, Assembly Level Programming-ARM11, ARM9, Android
+Patent in MP3 Huffman decoding.
+Skilled in Android HAL, Openmax, Audio Codecs. 
+Hands on in Android Porting.
+Strong communication skill, Analytical mind and Leadership Qualities.
+
+
+N/A
+
+
+N/A
+
+
+N/A
+
+
+Experienced engineering leader.  I love to recruit, figure out what to build, and build it.  My passion is to ship
+ stuff.
+
+
+Google/YouTube SWE. 
+Not interested in new opportunities at this moment. Thank you.
+
+
+Specialties: Languages: C, C++, Java, HTML, CSS, JavaScript, AJAX, jQuery, PHP, SQL, C#, ASP.NET,
+ ASP, VBScript, Perl
+Applications: Microsoft Office, Visual Studio, Eclipse, NetBeans, Dreamweaver, phpMyAdmin, Keil, Protel,
+ Photoshop 
+Web Servers and Databases: Apache, Tomcat, IIS; mySQL, Oracle, MS SQL Server, MS Access
+
+
+Search and recommendation, image understanding, image discovery, beautiful and useful image products.
+
+
+N/A
+
+
+N/A
