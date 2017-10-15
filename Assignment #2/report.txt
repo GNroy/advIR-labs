@@ -1,0 +1,150 @@
+
+Estimated mu: 14365.934652596796
+
+Trained for95 documents with total vocabulary size 10873
+
+Maximum Likelihood Estimator
+
+Laplace smoothing 
+
+By sections:
+
+Section: summary
+Docs count: 17
+Section selected: 14
+Accuracy: 0.9489795918367347
+Precision: 0.9285714285714286
+Recall: 0.7647058823529411
+F1-score: 0.8387096774193549
+
+Section: education
+Docs count: 40
+Section selected: 44
+Accuracy: 0.9591836734693877
+Precision: 0.9090909090909091
+Recall: 1.0
+F1-score: 0.9523809523809523
+
+Section: work_experience
+Docs count: 41
+Section selected: 40
+Accuracy: 0.9285714285714286
+Precision: 0.925
+Recall: 0.9024390243902439
+F1-score: 0.9135802469135802
+
+Average overall:
+
+Accuracy: 0.945578231292517
+Precision: 0.920887445887446
+Recall: 0.8890483022477284
+F1-score: 0.9015569589046292
+
+
+Dirichlet smoothing 
+
+By sections:
+
+Section: summary
+Docs count: 17
+Section selected: 10
+Accuracy: 0.9285714285714286
+Precision: 1.0
+Recall: 0.5882352941176471
+F1-score: 0.7407407407407407
+
+Section: education
+Docs count: 40
+Section selected: 40
+Accuracy: 1.0
+Precision: 1.0
+Recall: 1.0
+F1-score: 1.0
+
+Section: work_experience
+Docs count: 41
+Section selected: 48
+Accuracy: 0.9285714285714286
+Precision: 0.8541666666666666
+Recall: 1.0
+F1-score: 0.9213483146067416
+
+Average overall:
+
+Accuracy: 0.9523809523809524
+Precision: 0.9513888888888888
+Recall: 0.8627450980392157
+F1-score: 0.8873630184491607
+
+
+No smoothing 
+
+By sections:
+
+Section: summary
+Docs count: 17
+Section selected: 8
+Accuracy: 0.9081632653061225
+Precision: 1.0
+Recall: 0.47058823529411764
+F1-score: 0.64
+
+Section: education
+Docs count: 40
+Section selected: 39
+Accuracy: 0.9897959183673469
+Precision: 1.0
+Recall: 0.975
+F1-score: 0.9873417721518988
+
+Section: work_experience
+Docs count: 41
+Section selected: 51
+Accuracy: 0.8979591836734694
+Precision: 0.803921568627451
+Recall: 1.0
+F1-score: 0.8913043478260869
+
+Average overall:
+
+Accuracy: 0.9319727891156463
+Precision: 0.9346405228758169
+Recall: 0.8151960784313724
+F1-score: 0.8395487066593286
+
+
+Kullback–Leibler divergence
+
+By sections:
+
+Section: summary
+Docs count: 17
+Section selected: 9
+Accuracy: 0.8979591836734694
+Precision: 0.8888888888888888
+Recall: 0.47058823529411764
+F1-score: 0.6153846153846154
+
+Section: education
+Docs count: 40
+Section selected: 39
+Accuracy: 0.9897959183673469
+Precision: 1.0
+Recall: 0.975
+F1-score: 0.9873417721518988
+
+Section: work_experience
+Docs count: 41
+Section selected: 50
+Accuracy: 0.9081632653061225
+Precision: 0.82
+Recall: 1.0
+F1-score: 0.9010989010989011
+
+Average overall:
+
+Accuracy: 0.9319727891156463
+Precision: 0.9029629629629629
+Recall: 0.8151960784313724
+F1-score: 0.8346084295451384
+
